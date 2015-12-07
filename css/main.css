@@ -57,3 +57,7 @@ h1 {
 .button:focus {
 	outline:0;
 }
+
+.tweet {
+	margin-top: 50px
+}
